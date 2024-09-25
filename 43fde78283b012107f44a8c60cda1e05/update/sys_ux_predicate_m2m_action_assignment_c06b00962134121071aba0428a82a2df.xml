@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</declarative_action_assignment>
+        <predicate display_value="Custom portal - Related items predicate">0c6b0096213412102150d5ed84a6d3eb</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-24 08:02:08</sys_created_on>
+        <sys_id>c06b00962134121071aba0428a82a2df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_snc_safety">43fde78283b012107f44a8c60cda1e05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">43fde78283b012107f44a8c60cda1e05</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_c06b00962134121071aba0428a82a2df</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-24 08:02:08</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>
